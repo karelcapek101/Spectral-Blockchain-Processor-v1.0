@@ -2,11 +2,9 @@ Spectral Blockchain Processor
 A comprehensive prototype of a spectral computing machine for blockchain, inspired by QFC and QFM. It simulates an onchain processor with quantum-like elements: interference for consensus, spectral invariants for validation.
 What's New in the Extension
 
-QWASM Integration: Quantum-Inspired WASM for operator execution (shift, interference).
-
-Installation
 
 
+Installation:
 Install dependencies: pip install -r requirements.txt
 Run: python main.py
 
